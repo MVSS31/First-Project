@@ -3,4 +3,4 @@ Get the usgiter data...
 create an avatar for user1
 
 
-I am just testing my git knowledge
+I am jst testing my git knowledge
