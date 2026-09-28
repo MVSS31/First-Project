@@ -1,6 +1,6 @@
-Get the usgiter data...
+Get the gitter data...
 
 create an avatar for user1
 
 
-I am jst testing my git knowledge
+I am just testing my git knowledge
